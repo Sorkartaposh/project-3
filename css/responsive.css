@@ -1,0 +1,416 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  
+.navbar-header {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.menu-area {
+    display: none;
+}
+.menu-area ul li {
+    display: block;
+    margin: 0;
+}
+.menu-area ul {
+    text-align: left;
+}
+.navbar-header {
+    display: block;
+}
+
+.banner-txt h1 {
+    font-size: 45px;
+}
+.banner-txt p {
+    font-size: 16px;
+}
+.earn-area {
+    margin-top: 50px;
+}
+.earn-txt h2 {
+    font-size: 25px;
+}
+.earn-txt p {
+    font-size: 16px;
+}
+.oc-area {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.oc-header h2 {
+    font-size: 25px;
+}
+.become-area {
+    padding: 80px 0;
+}
+.become-item h2 {
+    font-size: 25px;
+}
+.become-item p  {
+    font-size: 16px;
+}
+.details-area  {
+    padding: 80px 0;
+}
+.details-header h2 {
+    font-size: 25px;
+}
+.details-txt h3 {
+    font-size: 20px;
+}
+.details-txt p {
+    font-size: 16px;
+}
+.guaranteed-area {
+    padding: 80px 0;
+}
+.g-bg2 {
+    margin-top: 80px;
+}
+.g-header h2 {
+    font-size: 25px;
+}
+.g-header  p {
+    font-size: 16px;
+}
+.g-bg-txt h2 {
+    font-size: 25px;
+}
+.footer-item h3 {
+    font-size: 20px;
+}
+.footer-item  p  {
+    font-size: 16px;
+}
+.banner-txt{
+    margin-top: 80px;
+}
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .menu-area {
+        display: none;
+    }
+    .menu-area ul li {
+        display: block;
+        margin: 0;
+    }
+    .menu-area ul {
+        text-align: left;
+    }
+    .navbar-header {
+        display: block;
+    }
+
+    .ad1 {
+        order: 2;
+    }
+    .ad2 {
+        order: 1;
+    }
+    .ad4 {
+        margin-bottom: 80px;
+    }
+    
+    .banner-txt h1 {
+        font-size: 40px;
+    }
+    .banner-txt p {
+        font-size: 16px;
+    }
+    .earn-area {
+        margin-top: 50px;
+    }
+    .earn-txt h2 {
+        font-size: 22px;
+    }
+    .earn-txt p {
+        font-size: 16px;
+    }
+    .oc-area {
+        margin-top: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .oc-header h2 {
+        font-size: 22px;
+    }
+    .become-area {
+        padding: 80px 0;
+    }
+    .become-item h2 {
+        font-size: 22px;
+    }
+    .become-item p  {
+        font-size: 16px;
+    }
+    .details-area  {
+        padding: 50px 0;
+    }
+    .details-header h2 {
+        font-size: 22px;
+    }
+    .details-txt h3 {
+        font-size: 20px;
+    }
+    .details-txt p {
+        font-size: 16px;
+    }
+    .guaranteed-area {
+        padding: 50px 0;
+    }
+    .g-bg2 {
+        margin-top: 50px;
+    }
+    .g-header h2 {
+        font-size: 22px;
+    }
+    .g-header  p {
+        font-size: 16px;
+    }
+    .g-bg-txt h2 {
+        font-size: 22px;
+    }
+    .footer-item h3 {
+        font-size: 20px;
+    }
+    .footer-item  p  {
+        font-size: 16px;
+    }
+    .banner-txt{
+        margin-top: 60px;
+    }
+    .logo img {
+        width: 90%;
+    }
+    .di-2 {
+        margin-top: 20px;
+    }
+    .d3 {
+        margin-top: 20px;
+    }
+    .d4 {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .menu-area {
+        display: none;
+    }
+    .menu-area ul li {
+        display: block;
+        margin: 0;
+    }
+    .menu-area ul {
+        text-align: left;
+    }
+    .navbar-header {
+        display: block;
+    }
+
+    .logo img {
+        width: 80%;
+    }
+    .banner-txt{
+        margin-top: 30px;
+    }
+    .banner-txt h1 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .banner-txt p {
+        font-size: 15px;
+    }
+    .earn-area {
+        margin-top: 50px;
+    }
+    .earn-txt h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .earn-txt p {
+        font-size: 16px;
+    }
+    .oc-area {
+        margin-top: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .oc-header h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .become-area {
+        padding: 80px 0;
+    }
+    .become-item h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .become-item p  {
+        font-size: 16px;
+    }
+    .details-area  {
+        padding: 50px 0;
+    }
+    .details-header h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .details-txt h3 {
+        font-size: 20px;
+    }
+    .details-txt p {
+        font-size: 16px;
+    }
+    .guaranteed-area {
+        padding: 50px 0;
+    }
+    .g-bg2 {
+        margin-top: 50px;
+    }
+    .g-header h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .g-header  p {
+        font-size: 16px;
+    }
+    .g-bg-txt h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .g-bg-txt {
+        padding-top: 80px;
+        margin-left: 20px;
+    }
+    .footer-item h3 {
+        font-size: 20px;
+    }
+    .footer-item  p  {
+        font-size: 16px;
+    }
+    header {
+        height: 700px;
+    }
+
+    /* extra space*/
+    .ad1 {
+        order: 2;
+    }
+    .ad2 {
+        order: 1;
+    }
+    .ad4 {
+        margin-bottom: 40px;
+    }
+    .di-2 {
+        margin-top: 20px;
+    }
+    .d3 {
+        margin-top: 20px;
+    }
+    .d4 {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
